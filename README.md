@@ -30,3 +30,4 @@ else:
     else:
         print('%d is odd number'%(x))
     print('Negative numbers are neither prime nor composite numbers')
+23
